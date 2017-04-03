@@ -7,5 +7,11 @@ func main() {
 
 	// sandbox()
 
-	fmt.Println(add(42, 13))
+	// function.go
+	a, sum := add(42, 13)
+	fmt.Println(a, sum)
+
+	// variables.go
+	var i int // declare variable of type int, defaults to 0
+	fmt.Println(i, c, python, java)
 }
