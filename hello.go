@@ -20,5 +20,8 @@ func main() {
 
 	// pointers.go
 
-	pointers()
+	// pointers()
+
+	// structs.go
+	structs()
 }
